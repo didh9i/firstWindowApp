@@ -1,0 +1,3 @@
+C:/Users/179da/CLionProjects/firstWindowApp/cmake-build-debug/CMakeFiles/firstWindowApp.dir
+C:/Users/179da/CLionProjects/firstWindowApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/179da/CLionProjects/firstWindowApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
